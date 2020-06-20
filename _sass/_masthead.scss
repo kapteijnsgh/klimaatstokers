@@ -7,10 +7,10 @@
 .site-masthead h1 {
   font-size: 3em;
   margin-bottom: 0;
-  margin-top: 1em;
-  padding: 0 2rem;
+  margin-top: 0em;
+  padding: 0 0rem;
   @media (min-width: $on-tablet) {
-    font-size: 6em;
+    font-size: 5em;
   }
 }
 
@@ -23,3 +23,22 @@
     font-size: 3em;
   }
 }
+
+.logo {
+  // Part 1: Set a maximum relative to the parent
+  width: 260px;
+  // Part 2: Override the height to auto, otherwise images will be stretched
+  // when setting a width and height attribute on the img element.
+  height: auto;
+
+  @media (max-width: $on-tablet) {
+  	max-width: 100%;
+  }
+	margin: 1.5em auto 1.5em auto;
+
+}
+
+// $on-bigphone:         375px;
+// $on-tablet:           768px;
+// $on-laptop:           960px;
+// $on-desktop:          1200px;

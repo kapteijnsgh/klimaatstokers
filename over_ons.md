@@ -3,4 +3,4 @@ layout: post
 title: Over ons
 ---
 
-hallo
+Het logo is gemaakt door [Marianne de Heer Kloots](http://mdhk.net/).
