@@ -1,0 +1,16 @@
+current directory: /home/geert/Code/Django/klimaatstokers/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/geert/.rbenv/versions/2.7.1/bin/ruby -I /home/geert/.rbenv/versions/2.7.1/lib/ruby/site_ruby/2.7.0 -r ./siteconf20200620-50681-wmfwwc.rb extconf.rb
+creating Makefile
+
+current directory: /home/geert/Code/Django/klimaatstokers/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/geert/Code/Django/klimaatstokers/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/geert/Code/Django/klimaatstokers/vendor/cache/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20200620-50681-rs40oj

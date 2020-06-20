@@ -15,9 +15,9 @@ layout: default
       </h1>
     {% endif %}
     {% if site.title %}
-      <h2>
-        {{ site.description }}
-      </h2>
+      <!-- <h2> -->
+      <!--   {{ site.description }} -->
+      <!-- </h2> -->
     {% endif %}
   </header>
 {% endif %}
@@ -28,7 +28,7 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Contents
+      Nieuwste stukken
     {% endif %}
   </h1>
 
@@ -44,13 +44,13 @@ layout: default
 
       <div class="post-pagination">
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+          <a href="{{ paginator.next_page_path | prepend: site.url  }}" class="pagination-next btn">Ouder</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.url }}" class="pagination-previous btn">Nieuwer</a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
