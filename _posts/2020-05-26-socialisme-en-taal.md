@@ -57,7 +57,7 @@ Voor oude teksten is dit lastig, omdat de lezer gehinderd wordt door de eigen vo
 
 <p>&nbsp;</p>
 
-Met behulp van analyse kunnen we taal tot ons wapen maken. Zie het Engelse Black is Beautiful uit de jaren 1970. Ik stel bijvoorbeeld voor het woord benoemen over te nemen, zo populair bij extreem rechts. Uiteraard willen zij doen voorkomen dat hun problemen niet bij henzelf te vinden zijn, maar bij de tweederangsburgers die ze eronder willen houden. Zoiets kunnen wij ook, maar dan op basis van feiten. Zwarte Piet is een probleem, verbonden aan racisme. Dat er honderdduizenden tweederangs burgers zijn in Nederland is een probleem. Dat moeten we blijven benoemen; we moeten extreem rechts voortdurend voorhouden dat zij de wegkijkers zijn want onderdeel van het probleem. Op deze wijze wordt benoemen een socialistisch wapen; we kunnen het de racisten afpakken.
+Met behulp van analyse kunnen we taal tot ons wapen maken. Zie het Engelse Black is Beautiful uit de jaren 1970. Ik stel bijvoorbeeld voor het woord benoemen over te nemen, zo populair bij extreemrechts. Uiteraard willen zij doen voorkomen dat hun problemen niet bij henzelf te vinden zijn, maar bij de tweederangsburgers die ze eronder willen houden. Zoiets kunnen wij ook, maar dan op basis van feiten. Zwarte Piet is een probleem, verbonden aan racisme. Dat er honderdduizenden tweederangs burgers zijn in Nederland is een probleem. Dat moeten we blijven benoemen; we moeten extreemrechts voortdurend voorhouden dat zij de wegkijkers zijn want onderdeel van het probleem. Op deze wijze wordt benoemen een socialistisch wapen; we kunnen het de racisten afpakken.
 
 <p>&nbsp;</p>
 
@@ -69,4 +69,4 @@ In andere gevallen maakt het me niet uit. In een discussie met Anousha Nzuma zal
 
 <p>&nbsp;</p>
 
-Laten we ons vooral druk maken om datgene waar het om draait: een betere samenleving voor iedereen. De taal die we gebruiken is geen doel op zich, maar een instrument om dat ideaal te bereiken. Hoe dat in de antiracismestrijd kan gebeuren laat Kick Out Zwarte Piet bijvoorbeeld al sinds 2011 zien.
+Laten we ons vooral druk maken om datgene waar het om draait: een betere samenleving voor iedereen. De taal die we gebruiken is geen doel op zich, maar een instrument om dat ideaal te bereiken. Hoe dat in de antiracismestrijd kan gebeuren laat de huidige beweging waar Kick Out Zwarte Piet uit is gegroeid bijvoorbeeld al sinds 2011 zien.
